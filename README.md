@@ -58,4 +58,4 @@ Missing operational features such as:
 
 ---
 
-Author: Chitsanupong Chinsirichokchai, IE, Chulalongkorn University
+Chitsanupong Chinsirichokchai, IE, Chulalongkorn University
