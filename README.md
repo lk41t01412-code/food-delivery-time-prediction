@@ -16,7 +16,8 @@ The dataset contains approximately 1,900 food delivery orders with features such
 - Cost of the order
 - Target variable: total waiting time (minutes)
 
-> Note: The dataset is used for educational purposes.
+> The dataset was obtained from an online public source which is currently unavailable.
+> The data is used strictly for educational and non-commercial purposes.
 
 ## Methodology
 1. Exploratory Data Analysis (EDA)
