@@ -31,7 +31,7 @@ The dataset contains approximately 1,900 food delivery orders with features such
 ## Results
 - **Best Model:** Linear Regression  
 - **Performance:**
-- - Mean Absolute Error (CV) **5.2 minutes**
+- Mean Absolute Error (CV) **5.2 minutes**
 - Tree-based models did not outperform the linear baseline due to limited feature richness.
 
 ## Key Insights
