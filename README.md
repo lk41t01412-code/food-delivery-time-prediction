@@ -17,6 +17,7 @@ The dataset contains approximately 1,900 food delivery orders with features such
 - Target variable: total waiting time (minutes)
 
 > The dataset was obtained from an online public source which is currently unavailable.
+
 > The data is used strictly for educational and non-commercial purposes.
 
 ## Methodology
@@ -29,8 +30,8 @@ The dataset contains approximately 1,900 food delivery orders with features such
 
 ## Results
 - **Best Model:** Linear Regression  
-- **Performance:**  
-  - Mean Absolute Error (CV) â **5.2 minutes**
+- **Performance:**
+- - Mean Absolute Error (CV) **5.2 minutes**
 - Tree-based models did not outperform the linear baseline due to limited feature richness.
 
 ## Key Insights
